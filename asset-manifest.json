@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Random_User/static/css/main.78455214.chunk.css",
+    "main.js": "/Random_User/static/js/main.d446efdf.chunk.js",
+    "main.js.map": "/Random_User/static/js/main.d446efdf.chunk.js.map",
+    "runtime-main.js": "/Random_User/static/js/runtime-main.8c201f42.js",
+    "runtime-main.js.map": "/Random_User/static/js/runtime-main.8c201f42.js.map",
+    "static/js/2.961a4c63.chunk.js": "/Random_User/static/js/2.961a4c63.chunk.js",
+    "static/js/2.961a4c63.chunk.js.map": "/Random_User/static/js/2.961a4c63.chunk.js.map",
+    "index.html": "/Random_User/index.html",
+    "static/css/main.78455214.chunk.css.map": "/Random_User/static/css/main.78455214.chunk.css.map",
+    "static/js/2.961a4c63.chunk.js.LICENSE.txt": "/Random_User/static/js/2.961a4c63.chunk.js.LICENSE.txt",
+    "static/media/cw.22310668.svg": "/Random_User/static/media/cw.22310668.svg",
+    "static/media/design.9f215bce.svg": "/Random_User/static/media/design.9f215bce.svg",
+    "static/media/growing-up-woman.a1585842.svg": "/Random_User/static/media/growing-up-woman.a1585842.svg",
+    "static/media/mail.42e0750e.svg": "/Random_User/static/media/mail.42e0750e.svg",
+    "static/media/map.8e5a2a58.svg": "/Random_User/static/media/map.8e5a2a58.svg",
+    "static/media/padlock.8d2c33d2.svg": "/Random_User/static/media/padlock.8d2c33d2.svg",
+    "static/media/phone.d017e1ae.svg": "/Random_User/static/media/phone.d017e1ae.svg",
+    "static/media/woman.05242306.svg": "/Random_User/static/media/woman.05242306.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c201f42.js",
+    "static/js/2.961a4c63.chunk.js",
+    "static/css/main.78455214.chunk.css",
+    "static/js/main.d446efdf.chunk.js"
+  ]
+}
