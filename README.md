@@ -1,6 +1,6 @@
 
 
-This project link [Menu React App](https://serapo.github.io/Menu-React-Project/).
+This project link [Random User App](https://serapo.github.io/Random_User/).
 
 
 
